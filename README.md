@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalyan Vadgure</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn2.vectorstock.com/i/1000x1000/25/31/happy-man-with-beard-working-on-computer-vector-13572531.jpg">
+<img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
 
 
 - 🔭 I’m currently working on **Movies App (Netflix, Amazon Prime Clone)**
