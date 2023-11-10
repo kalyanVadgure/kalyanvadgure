@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalyan Vadgure</h1>
+<h1 align="center">Hi 👋, I'm Kalyan Vadugure</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
 
